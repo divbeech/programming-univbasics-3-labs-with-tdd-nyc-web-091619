@@ -10,13 +10,13 @@ add = addition(val1, val2)
 
 def subtraction(val1, val2)
     return val1-val2
-end 
+end
 
 sub = subtraction(val1, val2)
 
 def division(val1, val2)
     return val1/val2
-end 
+end
 
 div = division(val1, val2)
 
@@ -35,5 +35,4 @@ puts div
 elsif sym == "*"
 puts mult
 else puts "error"
-end 
-
+end
